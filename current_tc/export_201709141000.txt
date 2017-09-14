@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="currentc.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+<title>本港地區天氣報告</title>
+<link>http://www.weather.gov.hk/wxinfo/currwx/currentc.htm</link>
+<description>本港地區天氣報告</description>
+<language>zh-tw</language>
+
+<copyright>本檔案的內容，包括但不限於所有文本、平面圖像、圖畫、圖片、照片以及數據或其他資料的匯編，均受版權保障。香港特別行政區政府是本檔案內所有版權作品的擁有人，除非預先得到香港天文台的書面授權，否則嚴禁複製、改編、分發、發布或向公眾提供該等版權作品。</copyright>
+<image>
+
+    <title>本港地區天氣報告</title>
+    <link>http://www.weather.gov.hk/wxinfo/currwx/currentc.htm</link>
+	<url>http://rss.weather.gov.hk/img/HKOlogo.gif</url>
+    <width>144</width>
+	<height>28</height>
+</image>
+<item>
+	<author>hkowm@hko.gov.hk</author>
+    <guid isPermaLink="false">http://rss.weather.gov.hk/rss/CurrentWeatherBig5/20170914090200</guid>
+    <pubDate>Thu, 14 Sep 2017 01:02:00 GMT</pubDate>
+    <title>香港天文台於2017年09月14日09時02分發出之天氣報告</title>
+    <category>R</category>
+
+    <link>http://www.weather.gov.hk/wxinfo/currwx/currentc.htm</link>
+<description><![CDATA[
+						<p>
+				<img src="http://rss.weather.gov.hk/img/pic51.png" style="vertical-align: middle;"><br/><br/>	
+        上 午 9 時 				
+		天 文 台 錄 得：<br/>
+		氣 溫 ： 28 度<br/>
+		相 對 濕 度 ： 百 分 之 61<br/>
+		過 去 一 小 時  ， 		
+			京 士 柏 錄 得 的 平 均 紫 外 線 指 數 ： 2<br/>
+			紫 外 線 強 度 ： 低 <br/>
+
+
+
+
+
+
+
+						
+<br/><font color="red"><SPAN id='warning_message' >請注意：<br/>強烈季候風信號現正生效。<br/>酷熱天氣警告現正生效，天氣酷熱可能影響健康，市民應提防中暑。<br/></SPAN><br/>		</font><p></p>
+本 港 其 他 地 區 的 氣 溫 ：<br/>
+                <font size="-1">
+    <table border="0" cellspacing="0" cellpadding="0">
+
+<tr><td>天 文 台 </td><td width="100" align="right">28</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>京 士 柏 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>黃 竹 坑 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>打 鼓 嶺 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>流 浮 山 </td><td width="100" align="right">28</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>大 埔 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>沙 田 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>屯 門 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>將 軍 澳 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>西 貢 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>長 洲 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>赤 &#40050;  角    </td><td width="100" align="right">31</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>青 衣 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>石 崗 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>荃 灣 可 觀 </td><td width="100" align="right">26</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>荃 灣 城 門 谷 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>香 港 公 園 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>筲 箕 灣 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>九 龍 城 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>跑 馬 地 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>黃 大 仙 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>赤 柱 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>觀 塘 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>深 水 埗 </td><td width="100" align="right">30</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>啟 德 跑 道 公 園 </td><td width="100" align="right">29</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>元 朗 公 園 </td><td width="100" align="right">31</SPAN><SPAN style="float:static; text-align:left;"> 度 ，</td></tr>
+<tr><td>大 美 督 </td><td width="100" align="right">28</SPAN><SPAN style="float:static; text-align:left;"> 度 。</td></tr>
+    </table></font><br/>
+從 昨 晚 午 夜 至 上 午 9 時 ， 天 文 台 錄 得 最 低 氣 溫 為 27.6 度 。<br/><br/>以 下 是 有 關 超 強 颱 風 泰 利 在 上 午 9 時 的 消 息 ： <br/>
+ 位 置 為 北 緯 26.6 度 ， 東 經 124.6 度 附 近 。<br/><br/>以 下 是 有 關 強 烈 熱 帶 風 暴 杜 蘇 芮 在 上 午 9 時 的 消 息 ： <br/>
+ 位 置 為 北 緯 16.0 度 ， 東 經 112.3 度 附 近 。<br/><br/>]]>
+        </description>
+</item></channel></rss>
