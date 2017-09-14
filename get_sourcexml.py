@@ -14,6 +14,10 @@ xml_url = {
 	"current_eng": "http://rss.weather.gov.hk/rss/CurrentWeather.xml",
 	"forecast9day_tc" : "http://rss.weather.gov.hk/rss/SeveralDaysWeatherForecast_uc.xml",
 	"forecast9day_eng" : "http://rss.weather.gov.hk/rss/SeveralDaysWeatherForecast.xml",
+	"currentweather_tc": "http://rss.weather.gov.hk/rss/CurrentWeather_uc.xml",
+	"currentweather_eng": "http://rss.weather.gov.hk/rss/CurrentWeather.xml",
+	"earthquake_tc": "http://rss.weather.gov.hk/rss/QuickEarthquakeMessage_uc.xml",
+	"earthquake_eng": "http://rss.weather.gov.hk/rss/QuickEarthquakeMessage.xml",
 }
 
 

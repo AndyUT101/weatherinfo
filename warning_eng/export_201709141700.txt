@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+    <rss version="2.0">
+        <channel>
+            <title>Weather Warning Summary</title>
+            <description>Weather Warning Summary provided by the Hong Kong Observatory</description>
+            <link>http://www.weather.gov.hk/textonly/warning/warn.htm</link>
+            <language>en-us</language>
+            <webMaster>mailbox@hko.gov.hk</webMaster>
+            <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website. Any reproduction, adaptation, distribution, dissemination or making available of such copyright works to the public is strictly prohibited unless prior written authorization is obtained from the Hong Kong Observatory.</copyright>
+            <pubDate>Thu, 14 Sep 2017 16:21:55 +0800</pubDate>
+            <image>
+                <title>Hong Kong Observatory</title>
+                <url>http://rss.weather.gov.hk/img/logo_dblue.gif</url>
+                <width>333</width>
+                <height>65</height>
+            </image>
+            <item>
+                <title><![CDATA[Very Hot Weather Warning cancelled (16:20 HKT 14/09/2017) ]]></title>
+                <link>http://www.weather.gov.hk/textonly/warning/warn.htm</link>
+                <author>Hong Kong Observatory</author>
+                <description><![CDATA[Very Hot Weather Warning was cancelled at 16:20 HKT (14 Sep 2017) <br/><br/>]]></description>
+                <pubDate>Thu, 14 Sep 2017 16:20:00 +0800</pubDate>
+                <guid isPermaLink="false">http://rss.weather.gov.hk/rss/201709141620/Very Hot Weather Warning cancelled</guid>
+            </item>
+        </channel>
+    </rss>
